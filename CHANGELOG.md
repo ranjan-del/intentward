@@ -7,6 +7,7 @@ The format follows Keep a Changelog, and this project adheres to Semantic Versio
 
 ### Added
 
+- Flagship documentation standard: a "Project documentation" table in the README covering README, Architecture, Design decisions, Benchmarks, Failure cases, Evaluation, Trade-offs, Deployment, Cost and Future work, with stub documents for the sections not yet written
 - Vision, positioning, and the problem statement: 23 limitations that grow with scale
 - Architecture with six planes (control, agent, capability, execution, trust, research) and the persistent agent lifecycle
 - Capability (authority) model: grants, versions, transitions, integrity, leases, revocation, delegation, blast radius

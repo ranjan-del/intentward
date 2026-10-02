@@ -24,3 +24,14 @@
 | [glossary.md](glossary.md) | Terms |
 | [adr/](adr/README.md) | Architecture decisions |
 | [brief/](brief/) | The original briefs from the planning session, preserved |
+
+## Flagship standard documents
+
+Added for the flagship documentation standard (see the README section "Project documentation"). Each is a stub until filled in.
+
+| Document | Status |
+|---|---|
+| [cost.md](cost.md) | to be written |
+| [deployment.md](deployment.md) | to be written |
+| [failure-cases.md](failure-cases.md) | partial |
+| [trade-offs.md](trade-offs.md) | partial |

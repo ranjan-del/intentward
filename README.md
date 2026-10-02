@@ -162,6 +162,23 @@ IntentWard builds on and positions itself against CaMeL, Progent, Conseca, FIDES
 pattern, LlamaFirewall, AgentDojo, object-capability systems, macaroons, Biscuit and UCAN, and
 tool-retrieval research. The list is being verified: [docs/landscape.md](docs/landscape.md).
 
+## Project documentation
+
+Every flagship repository documents the same ten things. Status shows what exists today.
+
+| Section | Document | Status |
+|---|---|---|
+| README | [README.md](README.md) | Written |
+| Architecture | [docs/architecture.md](docs/architecture.md) | Written |
+| Design decisions | [docs/adr/README.md](docs/adr/README.md) | Written |
+| Benchmarks | [docs/benchmark.md](docs/benchmark.md) | Written |
+| Failure cases | [docs/failure-cases.md](docs/failure-cases.md) | Partial |
+| Evaluation | [docs/experiment-protocol.md](docs/experiment-protocol.md) | Written |
+| Trade-offs | [docs/trade-offs.md](docs/trade-offs.md) | Partial |
+| Deployment | [docs/deployment.md](docs/deployment.md) | To be written |
+| Cost | [docs/cost.md](docs/cost.md) | To be written |
+| Future work | [ROADMAP.md](ROADMAP.md) | Written |
+
 ## Contributing
 
 Read [CONTRIBUTING.md](CONTRIBUTING.md). The short version: no number without a run, no guarantee

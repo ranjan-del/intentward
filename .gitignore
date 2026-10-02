@@ -1,0 +1,34 @@
+# Local-only files, never committed
+CLAUDE.md
+MEMORY*.md
+*.local.md
+.notes/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.hypothesis/
+*.egg-info/
+dist/
+build/
+
+# Local data and run scratch (committed run records live in research/experiments/)
+*.db
+*.sqlite3
+.intentward/
+
+# Environment and keys
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Editors and OS
+.DS_Store
+.idea/
+.vscode/
